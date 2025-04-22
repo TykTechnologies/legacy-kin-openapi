@@ -1,4 +1,4 @@
-module github.com/TykTechnologies/kin-openapi
+module github.com/TykTechnologies/legacy-kin-openapi
 
 go 1.19
 

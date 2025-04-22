@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/TykTechnologies/kin-openapi/openapi3"
+	"github.com/TykTechnologies/legacy-kin-openapi/openapi3"
 	"github.com/stretchr/testify/require"
 )
 

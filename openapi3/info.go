@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/TykTechnologies/kin-openapi/jsoninfo"
+	"github.com/TykTechnologies/legacy-kin-openapi/jsoninfo"
 )
 
 // Info is specified by OpenAPI/Swagger standard version 3.0.

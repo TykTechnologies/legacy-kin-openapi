@@ -6,9 +6,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/TykTechnologies/kin-openapi/openapi3"
-	"github.com/TykTechnologies/kin-openapi/openapi3filter"
-	legacyrouter "github.com/TykTechnologies/kin-openapi/routers/legacy"
+	"github.com/TykTechnologies/legacy-kin-openapi/openapi3"
+	"github.com/TykTechnologies/legacy-kin-openapi/openapi3filter"
+	legacyrouter "github.com/TykTechnologies/legacy-kin-openapi/routers/legacy"
 	"github.com/stretchr/testify/require"
 )
 

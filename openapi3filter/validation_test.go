@@ -14,8 +14,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/TykTechnologies/kin-openapi/openapi3"
-	legacyrouter "github.com/TykTechnologies/kin-openapi/routers/legacy"
+	"github.com/TykTechnologies/legacy-kin-openapi/openapi3"
+	legacyrouter "github.com/TykTechnologies/legacy-kin-openapi/routers/legacy"
 	"github.com/stretchr/testify/require"
 )
 

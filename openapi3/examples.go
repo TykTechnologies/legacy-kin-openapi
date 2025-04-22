@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/TykTechnologies/kin-openapi/jsoninfo"
+	"github.com/TykTechnologies/legacy-kin-openapi/jsoninfo"
 	"github.com/go-openapi/jsonpointer"
 )
 

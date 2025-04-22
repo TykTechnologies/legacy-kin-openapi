@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"reflect"
 
-	"github.com/TykTechnologies/kin-openapi/openapi2"
+	"github.com/TykTechnologies/legacy-kin-openapi/openapi2"
 	"github.com/ghodss/yaml"
 )
 

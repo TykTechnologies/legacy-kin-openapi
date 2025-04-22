@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/TykTechnologies/kin-openapi/openapi3"
-	"github.com/TykTechnologies/kin-openapi/openapi3filter"
-	"github.com/TykTechnologies/kin-openapi/routers/gorillamux"
+	"github.com/TykTechnologies/legacy-kin-openapi/openapi3"
+	"github.com/TykTechnologies/legacy-kin-openapi/openapi3filter"
+	"github.com/TykTechnologies/legacy-kin-openapi/routers/gorillamux"
 )
 
 func Example() {

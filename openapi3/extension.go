@@ -1,7 +1,7 @@
 package openapi3
 
 import (
-	"github.com/TykTechnologies/kin-openapi/jsoninfo"
+	"github.com/TykTechnologies/legacy-kin-openapi/jsoninfo"
 )
 
 // ExtensionProps provides support for OpenAPI extensions.

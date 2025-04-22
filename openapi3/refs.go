@@ -3,7 +3,7 @@ package openapi3
 import (
 	"context"
 
-	"github.com/TykTechnologies/kin-openapi/jsoninfo"
+	"github.com/TykTechnologies/legacy-kin-openapi/jsoninfo"
 	"github.com/go-openapi/jsonpointer"
 )
 

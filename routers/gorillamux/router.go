@@ -12,8 +12,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/TykTechnologies/kin-openapi/openapi3"
-	"github.com/TykTechnologies/kin-openapi/routers"
+	"github.com/TykTechnologies/legacy-kin-openapi/openapi3"
+	"github.com/TykTechnologies/legacy-kin-openapi/routers"
 	"github.com/gorilla/mux"
 )
 

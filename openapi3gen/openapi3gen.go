@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/TykTechnologies/kin-openapi/jsoninfo"
-	"github.com/TykTechnologies/kin-openapi/openapi3"
+	"github.com/TykTechnologies/legacy-kin-openapi/jsoninfo"
+	"github.com/TykTechnologies/legacy-kin-openapi/openapi3"
 )
 
 // CycleError indicates that a type graph has one or more possible cycles.

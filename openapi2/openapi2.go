@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"sort"
 
-	"github.com/TykTechnologies/kin-openapi/jsoninfo"
-	"github.com/TykTechnologies/kin-openapi/openapi3"
+	"github.com/TykTechnologies/legacy-kin-openapi/jsoninfo"
+	"github.com/TykTechnologies/legacy-kin-openapi/openapi3"
 )
 
 // T is the root of an OpenAPI v2 document

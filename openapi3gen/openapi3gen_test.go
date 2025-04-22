@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TykTechnologies/kin-openapi/openapi3"
-	"github.com/TykTechnologies/kin-openapi/openapi3gen"
+	"github.com/TykTechnologies/legacy-kin-openapi/openapi3"
+	"github.com/TykTechnologies/legacy-kin-openapi/openapi3gen"
 	"github.com/stretchr/testify/require"
 )
 

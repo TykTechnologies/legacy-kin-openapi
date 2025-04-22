@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/TykTechnologies/kin-openapi/jsoninfo"
+	"github.com/TykTechnologies/legacy-kin-openapi/jsoninfo"
 )
 
 // Servers is specified by OpenAPI/Swagger standard version 3.0.

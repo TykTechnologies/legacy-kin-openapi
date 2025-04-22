@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/TykTechnologies/kin-openapi/jsoninfo"
+	"github.com/TykTechnologies/legacy-kin-openapi/jsoninfo"
 )
 
 // Encoding is specified by OpenAPI/Swagger 3.0 standard.

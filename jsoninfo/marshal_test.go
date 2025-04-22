@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TykTechnologies/kin-openapi/jsoninfo"
-	"github.com/TykTechnologies/kin-openapi/openapi3"
+	"github.com/TykTechnologies/legacy-kin-openapi/jsoninfo"
+	"github.com/TykTechnologies/legacy-kin-openapi/openapi3"
 )
 
 type Simple struct {
@@ -64,9 +64,10 @@ type EmbeddedType1 struct {
 }
 
 // Example describes expected outcome of:
-//   1.Marshal JSON
-//   2.Unmarshal value
-//   3.Marshal value
+//
+//	1.Marshal JSON
+//	2.Unmarshal value
+//	3.Marshal value
 type Example struct {
 	NoMarshal   bool
 	NoUnmarshal bool
